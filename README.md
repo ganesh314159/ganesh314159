@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganesh314159
-- 👀 I’m interested in making new science and maths related packages
+- 👀 I’m interested in making new science and maths related projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source free calculus calculator
 - 📫 How to reach me : ganesh314159@gmail.com
