@@ -37,6 +37,7 @@
   <img src="https://github.com/ganesh314159/ganesh314159/blob/main/media/icons/arduino.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://github.com/ganesh314159/ganesh314159/blob/main/media/icons/keil.svg" title="Keil" **alt="Keil" width="60" height="60"/>
   <img src="https://github.com/ganesh314159/ganesh314159/blob/main/media/icons/mplab-x-ide.png" title="MPLABXIDE" **alt="MPLABXIDE" width="40" height="40"/>
+  <img src="https://github.com/ganesh314159/ganesh314159/blob/main/media/icons/vscode.svg" title="VisualStudioCode" **alt="VisualStudioCode" width="40" height="40"/>
 </div>
 
 ---
