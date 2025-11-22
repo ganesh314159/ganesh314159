@@ -42,4 +42,4 @@
 
 ---
 
-### Blog Posts typed by Ganesh314159 :
+### Blog Posts typed by Ganesh :
